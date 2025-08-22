@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://andreacastillop.github.io/gladysdoesart/sitemap.xml

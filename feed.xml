@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>GladysDoesArt</title>
+    <link href="https://andreacastillop.github.io/gladysdoesart/feed.xml" rel="self" />
+    <link href="https://andreacastillop.github.io/gladysdoesart" />
+    <updated>2025-08-22T17:37:57-05:00</updated>
+    <author>
+        <name>Gladys Castillo</name>
+    </author>
+    <id>https://andreacastillop.github.io/gladysdoesart</id>
+
+    <entry>
+        <title>Composición Visual</title>
+        <author>
+            <name>Gladys Castillo</name>
+        </author>
+        <link href="https://andreacastillop.github.io/gladysdoesart/composicion-visual.html"/>
+        <id>https://andreacastillop.github.io/gladysdoesart/composicion-visual.html</id>
+        <media:content url="https://andreacastillop.github.io/gladysdoesart/media/posts/2/pexels-souvenirpixels-417074-3.jpg" medium="image" />
+            <category term="Composición Visual"/>
+
+        <updated>2025-08-22T17:32:18-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://andreacastillop.github.io/gladysdoesart/media/posts/2/pexels-souvenirpixels-417074-3.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor justo dui. Donec quis justo est. Curabitur sit amet leo in enim vestibulum&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://andreacastillop.github.io/gladysdoesart/media/posts/2/pexels-souvenirpixels-417074-3.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://andreacastillop.github.io/gladysdoesart/media/posts/2/pexels-souvenirpixels-417074.jpg" alt="" width="4226" height="2847" sizes="(max-width: 48em) 100vw, 768px" srcset="https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/pexels-souvenirpixels-417074-xs.jpg 300w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/pexels-souvenirpixels-417074-sm.jpg 480w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/pexels-souvenirpixels-417074-md.jpg 768w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/pexels-souvenirpixels-417074-lg.jpg 1024w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/pexels-souvenirpixels-417074-xl.jpg 1360w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/pexels-souvenirpixels-417074-2xl.jpg 1600w"></figure>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor justo dui. Donec quis justo est. Curabitur sit amet leo in enim vestibulum rhoncus. Nunc rhoncus varius lorem sit amet consequat. Praesent et posuere urna. Proin erat arcu, porttitor id vestibulum sed, hendrerit at ligula. Nunc condimentum tristique arcu vitae porta. Pellentesque pharetra fermentum nisi, congue dignissim dui facilisis scelerisque. Ut convallis nisi gravida, lacinia libero a, accumsan massa. Nam orci metus, tempor in risus vitae, ullamcorper molestie odio. Aliquam sed sapien risus.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
