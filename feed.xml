@@ -3,34 +3,34 @@
     <title>GladysDoesArt</title>
     <link href="https://andreacastillop.github.io/gladysdoesart/feed.xml" rel="self" />
     <link href="https://andreacastillop.github.io/gladysdoesart" />
-    <updated>2025-08-22T17:37:57-05:00</updated>
+    <updated>2025-08-28T17:22:50-05:00</updated>
     <author>
         <name>Gladys Castillo</name>
     </author>
     <id>https://andreacastillop.github.io/gladysdoesart</id>
 
     <entry>
-        <title>Composición Visual</title>
+        <title>Paisaje Violeta</title>
         <author>
             <name>Gladys Castillo</name>
         </author>
         <link href="https://andreacastillop.github.io/gladysdoesart/composicion-visual.html"/>
         <id>https://andreacastillop.github.io/gladysdoesart/composicion-visual.html</id>
-        <media:content url="https://andreacastillop.github.io/gladysdoesart/media/posts/2/pexels-souvenirpixels-417074-3.jpg" medium="image" />
+        <media:content url="https://andreacastillop.github.io/gladysdoesart/media/posts/2/dibujo-2.png" medium="image" />
             <category term="Composición Visual"/>
 
         <updated>2025-08-22T17:32:18-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://andreacastillop.github.io/gladysdoesart/media/posts/2/pexels-souvenirpixels-417074-3.jpg" alt="" />
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor justo dui. Donec quis justo est. Curabitur sit amet leo in enim vestibulum&hellip;
+                        <img src="https://andreacastillop.github.io/gladysdoesart/media/posts/2/dibujo-2.png" alt="" />
+                    Esta pieza es mi primer acercamiento al programa de Inkscape. Decidí hacer un paisaje montañoso por lo práctico que es replicarlo en una&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://andreacastillop.github.io/gladysdoesart/media/posts/2/pexels-souvenirpixels-417074-3.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://andreacastillop.github.io/gladysdoesart/media/posts/2/pexels-souvenirpixels-417074.jpg" alt="" width="4226" height="2847" sizes="(max-width: 48em) 100vw, 768px" srcset="https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/pexels-souvenirpixels-417074-xs.jpg 300w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/pexels-souvenirpixels-417074-sm.jpg 480w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/pexels-souvenirpixels-417074-md.jpg 768w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/pexels-souvenirpixels-417074-lg.jpg 1024w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/pexels-souvenirpixels-417074-xl.jpg 1360w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/pexels-souvenirpixels-417074-2xl.jpg 1600w"></figure>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor justo dui. Donec quis justo est. Curabitur sit amet leo in enim vestibulum rhoncus. Nunc rhoncus varius lorem sit amet consequat. Praesent et posuere urna. Proin erat arcu, porttitor id vestibulum sed, hendrerit at ligula. Nunc condimentum tristique arcu vitae porta. Pellentesque pharetra fermentum nisi, congue dignissim dui facilisis scelerisque. Ut convallis nisi gravida, lacinia libero a, accumsan massa. Nam orci metus, tempor in risus vitae, ullamcorper molestie odio. Aliquam sed sapien risus.</p>
+                    <p><img src="https://andreacastillop.github.io/gladysdoesart/media/posts/2/dibujo-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://andreacastillop.github.io/gladysdoesart/media/posts/2/dibujo.png" alt="" width="1800" height="1080" sizes="(max-width: 48em) 100vw, 768px" srcset="https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/dibujo-xs.png 300w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/dibujo-sm.png 480w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/dibujo-md.png 768w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/dibujo-lg.png 1024w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/dibujo-xl.png 1360w ,https://andreacastillop.github.io/gladysdoesart/media/posts/2/responsive/dibujo-2xl.png 1600w"></figure>
+<p>Esta pieza es mi primer acercamiento al programa de Inkscape. Decidí hacer un paisaje montañoso por lo práctico que es replicarlo en una aplicación de formas vectoriales y, para esta primera entrega, estuve fuertemente influenciada por fuentes externas para medir qué tan bien podía replicar obras y manejar la herramienta. En este trabajo pude utilizar muchos de los recursos que brinda Inskcape (como la creación de grupos, réplica de formas, gotero, pincel libre, étc.) y ya me siento familiarizada con el software. Es un medio sencillo, intuitivo, accesible, y que puede ser útil en infinidad de trabajos.</p>
             ]]>
         </content>
     </entry>
