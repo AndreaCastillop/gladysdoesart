@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://andreacastillop.github.io/gladysdoesart/podcast-entre-tintes-y-tradicion.html",
+            "url": "https://andreacastillop.github.io/gladysdoesart/podcast-entre-tintes-y-tradicion.html",
+            "title": "Podcast: Entre tintes y tradición.",
+            "summary": "Las tradiciones y la identidad cultural son un fenómeno que poco a poco se están perdiendo o desvaneciendo por el flujo constante del&hellip;",
+            "content_html": "<p>Las tradiciones y la identidad cultural son un fenómeno que poco a poco se están perdiendo o desvaneciendo por el flujo constante del tiempo. En el podcast <a href=\"https://drive.google.com/file/d/1Wsrkdkz7RNcG5QD8_QcriD0l7QmONBxx/view?usp=drive_link\" target=\"_blank\" rel=\"noopener noreferrer\">Entre tintes y tradiciones</a> hablamos con Susana Sánchez sobre una práctica ancestral, el teñido de textiles por medio del pigmento del corozo, y profundizamos sobre practicas culturales, tradiciones, el proceso en sí y su experiencia con este trabajo. Todo esto en una divertida charla con Silvana Angel y Juana María.</p>\n<p>Así que preparate un buen jugo de corozo; siéntate, relájate, escucha, disfruta y aprende con nosotras.</p>\n<p> </p>",
+            "image": "https://andreacastillop.github.io/gladysdoesart/media/posts/5/depositphotos_634319582-stock-illustration-frequency-audio-waveform-music-wave.jpg",
+            "author": {
+                "name": "Gladys Castillo"
+            },
+            "tags": [
+                   "Podcast"
+            ],
+            "date_published": "2025-11-08T11:02:26-05:00",
+            "date_modified": "2025-11-08T11:07:48-05:00"
+        },
+        {
             "id": "https://andreacastillop.github.io/gladysdoesart/composicion-sonora.html",
             "url": "https://andreacastillop.github.io/gladysdoesart/composicion-sonora.html",
             "title": "Composición Sonora",
